@@ -36,10 +36,8 @@ const Footer = () => (
             </List>
           </Grid.Column>
           <Grid.Column width={7}>
-            <Header as="h4">Hecho para</Header>
+            <Header as="h4">Hecho por</Header>
             <p>
-              <a href="https://platzi.com/">Platzi y su curso de Next.JS</a> de
-              Platzi{' '}
               <a href="https://twitter.com/jgestradam">@jgestradam</a>
             </p>
             <List horizontal style={{ display: 'flex' }}>
